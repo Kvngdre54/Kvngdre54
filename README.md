@@ -40,4 +40,4 @@ I've been learning to code for a while now. But decided to take it more serious.
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/Dre"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/Kvngdre54"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
